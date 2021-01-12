@@ -11,3 +11,34 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+a, a:hover, a:focus, a:active {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* Navbar */
+
+.nav-text {
+  color: white;
+}
+.div-nav-right {
+  height: 40px;
+  line-height: 40px;
+  text-align: center;
+}
+
+/* margin padding */
+
+.ml-20 {
+  margin-left: 20px;
+}
+.mr-20 {
+  margin-right: 20px;
+}
+
+/* backgrounds */
+
+.bg-darkgray {
+  background-color: #343A40;
+}
